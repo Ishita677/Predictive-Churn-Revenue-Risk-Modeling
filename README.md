@@ -1,4 +1,4 @@
-# 📊 E-Commerce Customer Churn & Revenue Risk Analysis
+# 📊 Predictive Churn & Revenue Risk Modeling
 
 ## 📌 Project Overview
 This project analyses customer churn behaviour in an e-commerce platform to identify key drivers of churn and quantify its impact on revenue.
@@ -102,10 +102,6 @@ Developed an interactive dashboard featuring:
   - Churn by Product Category
   - Complaint Impact on Churn
 
-🔗 **Dashboard Link:**  
-https://public.tableau.com/views/E-CommerceCustomerChurnRevenueRiskAnalysisDashboard/Dashboard1
-
----
 
 ## 📊 Key Insights
 
@@ -156,4 +152,4 @@ This project demonstrates an end-to-end analytics workflow combining:
 ---
 
 ## 👨‍💻 Author
-**Ishan Kukreti**
+**Ishita Kukreti**
