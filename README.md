@@ -36,6 +36,14 @@ The objective is to:
 
 ---
 
+## 📊 Tableau Dashboard
+
+<p align="center">
+  <img src="dashboard 1.png" width="900">
+</p>
+
+---
+
 ## ⚙️ Methodology
 
 ### 1. Data Cleaning (Python)
