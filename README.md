@@ -36,14 +36,6 @@ The objective is to:
 
 ---
 
-## 📊 Tableau Dashboard
-
-<p align="center">
-  <img src="Dashboard 1.png" width="900">
-</p>
-
----
-
 ## ⚙️ Methodology
 
 ### 1. Data Cleaning (Python)
@@ -135,6 +127,13 @@ Developed an interactive dashboard featuring:
    - Mobile/Electronics: **~27% churn**
    - Grocery: **~4.9% churn**
    - Repeat-use categories retain customers better
+
+---
+## 📊 Tableau Dashboard
+
+<p align="center">
+  <img src="Dashboard 1.png" width="900">
+</p>
 
 ---
 
