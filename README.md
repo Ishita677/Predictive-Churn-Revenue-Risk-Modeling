@@ -39,7 +39,7 @@ The objective is to:
 ## 📊 Tableau Dashboard
 
 <p align="center">
-  <img src="dashboard 1.png" width="900">
+  <img src="Dashboard 1.png" width="900">
 </p>
 
 ---
